@@ -1,0 +1,35 @@
+.container {
+    font-size: large;
+}
+
+.disp-frame {
+    background-color: black;
+}
+
+.result {
+    text-align: right;
+    color: white;
+    vertical-align: center;
+}
+
+button {
+    color: white;
+}
+
+.func{
+    background-color: #A5A6A6;
+}
+
+.operator, #equal {
+    background-color: #FF9A00;
+}
+
+.active {
+    color: #FF9A00;
+    background-color: white;
+}
+
+.num {
+    background-color: #333333;
+}
+
